@@ -1,0 +1,14 @@
+.card-uno{
+
+    background-image: url(../ImgCity/Bangkok.jpg);
+    color:#000;
+}
+
+.card-dos{
+    background-image: url(../ImgCity/Berlin.jpg);
+
+}
+
+.card-tres{
+    background-image: url(../ImgCity/Barcelona.jpg);
+}
